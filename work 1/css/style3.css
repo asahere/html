@@ -2,10 +2,33 @@
     background-color: rgb(171, 60, 194);
      padding-bottom: 4px; 
      padding-top: 4px;
+     padding-left: 20px;
 }
 .a2{
     text-align: center;
+    color: white;
+    font-family:;
 }
-.body{
-    background-color: aliceblue; padding-top: 10px; padding-bottom: 30px;
+/* .body{
+    position: absolute;left: 5px;bottom: 410px;top: 110px;right: 320px;
+    background-color: aliceblue;
+     padding-top: 10px; 
+     padding-bottom: 30px;
+
+
+} */
+.full{
+    background-color: gray;
+}
+h2,h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.pk{
+    padding: 100px;
+    padding-top: 10px;
+    margin-left: 15px;
+    background-color: rgb(160, 47, 194);
+}
+.bt{
+    padding-bottom: 8px;
 }
