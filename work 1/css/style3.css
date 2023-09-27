@@ -1,8 +1,11 @@
 .a1{
     background-color: rgb(171, 60, 194);
-     padding-bottom: 8px; 
-     padding-top: 2px;
+     padding-bottom: 4px; 
+     padding-top: 4px;
 }
 .a2{
     text-align: center;
+}
+.body{
+    background-color: aliceblue; padding-top: 10px; padding-bottom: 30px;
 }
